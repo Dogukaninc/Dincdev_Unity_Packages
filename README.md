@@ -4,4 +4,6 @@ This package provides external tools for game development process, which are get
 
 > Copy the below link and add it to your manifest.json file which is located in Unity/Packages directory
 
-\```"com.dincdev.tools":"https://github.com/Dogukaninc/Dincdev_Unity_Packages.git"```\
+```
+bash git clone "com.dincdev.tools":"https://github.com/Dogukaninc/Dincdev_Unity_Packages.git"
+```
