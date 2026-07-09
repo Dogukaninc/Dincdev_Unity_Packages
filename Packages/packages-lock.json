@@ -1,12 +1,5 @@
 {
   "dependencies": {
-    "com.dincdev.tools": {
-      "version": "https://github.com/Dogukaninc/Dincdev_Unity_Packages.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "358a1d8e9ddb1f27793633c3840eacb6090227f7"
-    },
     "com.unity.device-simulator.devices": {
       "version": "1.0.1",
       "depth": 0,

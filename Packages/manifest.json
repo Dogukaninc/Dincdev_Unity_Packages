@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "com.dincdev.tools": "https://github.com/Dogukaninc/Dincdev_Unity_Packages.git",
     "com.unity.device-simulator.devices": "1.0.1",
     "com.unity.multiplayer.center": "1.0.1",
     "com.unity.modules.accessibility": "1.0.0",
