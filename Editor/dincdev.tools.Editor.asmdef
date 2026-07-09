@@ -1,0 +1,12 @@
+{
+	"name": "dincdev.tools.Editor",
+	"rootNamespace": "dincdev",
+	"references": [
+		"dincdev.tools"
+	],
+	"includePlatforms": [
+		"Editor"
+	],
+	"excludePlatforms": [],
+	"autoReferenced": true
+}

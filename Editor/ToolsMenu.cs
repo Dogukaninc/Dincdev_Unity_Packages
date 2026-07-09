@@ -1,5 +1,3 @@
-#if UNITY_EDITOR
-using System.IO;
 using UnityEditor;
 using UnityEngine;
 
@@ -7,9 +5,7 @@ using static System.IO.Directory;
 using static System.IO.Path;
 using static UnityEngine.Application;
 using static UnityEditor.AssetDatabase;
-#endif
 
-#if UNITY_EDITOR
 namespace dincdev
 {
     public static class ToolsMenu
@@ -39,10 +35,9 @@ namespace dincdev
 
         public static void CreateHierarchyObjects()
         {
-            GameObject go1 = new GameObject("--SETUP--");
-            GameObject go2 = new GameObject("--HANDLERS--");
-            GameObject go3 = new GameObject("--ENVIRONMENT--");
+            new GameObject("--SETUP--");
+            new GameObject("--HANDLERS--");
+            new GameObject("--ENVIRONMENT--");
         }
     }
 }
-#endif
