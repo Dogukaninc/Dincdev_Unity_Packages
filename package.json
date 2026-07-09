@@ -1,5 +1,10 @@
 {
-"name": "com.dincdev.tools",
-"version": "0.0.1-preview.1",
-"displayName": "Dicdev's Tools"
+  "name": "com.dincdev.tools",
+  "version": "0.0.1-preview.1",
+  "displayName": "Dincdev's Tools",
+  "description": "Özel Unity araçlarım ve yardımcı kütüphaneler.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Dogukan"
+  }
 }
