@@ -1,0 +1,25 @@
+{
+    "name": "Utils",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c71612acbe346a344abbc0dcfdf4f0bd",
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:63afb046c8423dd448ae7aba042ea63d",
+        "GUID:2665a8d13d1b3f18800f46e256720795",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:44dcb2bf5b9be4b5aa76674c8edcd1d5",
+        "GUID:a5baed0c9693541a5bd947d336ec7659",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
